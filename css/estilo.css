@@ -3,7 +3,7 @@
     display: flex;
     flex-direction: column;
     height: 100vh;
-    background-image: url("./assets/imgs/wall.png");
+    background-image: url("../assets/imgs/wall.png");
 }
 .menu{
     display: flex;
@@ -30,7 +30,7 @@
     border: 1px solid black;
 }
 .enemy{
-    background-image:url("./assets/imgs/ralph.png");
+    background-image:url("../assets/imgs/ralph.png");
     background-repeat: no-repeat;
    background-size: cover;
 }
